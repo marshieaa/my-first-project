@@ -1,3 +1,3 @@
-# About my first project on GitHub
+# This is my first project on GitHub
 # This is basically a group project about designing and developing a Company Profile Website
 # A Company Profile Website serves as a digital portfolio that introduces the company to potential clients, investors, and partners. It typically includes the company’s background, mission and vision, services or products offered and contact details. The relevance of such websites has increased significantly as businesses strive to establish credibility, enhance visibility, and remain competitive in a technology-driven market. This project aims to design and develop a Company Profile Website that showcases the identity, values, and offerings of a business in a professional and engaging manner.
